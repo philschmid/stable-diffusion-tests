@@ -1,0 +1,7 @@
+diffusers==0.11.1
+pyre-extensions==0.0.23
+ninja # make builds faster
+xformers==0.0.16rc425
+triton==2.0.0.dev20221120
+transformers==4.25.1
+accelerate==0.15.0

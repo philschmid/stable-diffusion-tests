@@ -1,0 +1,4 @@
+deepspeed[sd] 
+deepspeed-mii
+accelerate
+ninja
