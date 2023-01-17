@@ -2,9 +2,9 @@
 
 | option   | latency |
 | -------- | ------- |
-| default  | 2.13 ms |
-| xformers | 1.58ms  |
-| deepspeed-mii | 1.35ms  |
+| default  | 2.13s |
+| xformers | 1.58s  |
+| deepspeed-mii | 1.35s  |
 
 
 
