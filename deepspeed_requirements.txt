@@ -1,4 +1,9 @@
-deepspeed[sd] 
-deepspeed-mii
-accelerate
-ninja
+--extra-index-url https://download.pytorch.org/whl/cu116
+torch==1.12.1
+ninja 
+diffusers==0.7.1
+transformers==4.24.0
+triton==2.0.0.dev20221005
+accelerate==0.15.0
+deepspeed==0.7.5
+deepspeed-mii==0.0.3
